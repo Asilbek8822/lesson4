@@ -1,0 +1,42 @@
+.cards{
+    margin-left: 400px;
+    width: 600px;
+    height: 700px;
+    background-color: red;
+    border-radius: 20px;
+    border: 2px solid blue;
+}
+
+.cards h1{
+    text-align: center;
+    font-size: 60px;
+    color: #fff;
+}
+
+.cards img{
+    width: 200px;
+    height: 200px;
+    margin-left: 190px;
+}
+
+.cards p{
+    color: green;
+    font-size: 25px;
+}
+
+.cards a{
+    margin-left: 250px;
+    color: aquamarine;
+    text-decoration: none;
+}
+
+.rer1{
+    position: absolute;
+    margin-top: 15px;
+}
+
+.rer2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 20px;
+}
